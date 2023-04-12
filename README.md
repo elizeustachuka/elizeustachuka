@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elizeustachuka
 - 👀 I’m interested in Tests and Backend development
-- 🌱 I’m currently learning Java, RestAssured, Cucumber, Spock, Groovy, JavaScript and Cypress.
+- 🌱 I’m currently learning JavaScript, TypeScript, Java, RestAssured, Cucumber, Spock, Groovy and Cypress
 - 📫 How to reach me https://www.linkedin.com/in/elizeustachuka/
